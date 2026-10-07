@@ -1,0 +1,124 @@
+[
+  {
+    "id": "sub_1791334119774_8upy9",
+    "studentName": "gfgfgfsgflgksgk;lkl;kk;k;kk",
+    "studentClass": "8a6",
+    "answers": {
+      "1": "D",
+      "2": "D",
+      "3": "D",
+      "4": "A",
+      "5": "A"
+    },
+    "results": [
+      {
+        "questionId": 1,
+        "question": "Khi Khoa chụp lại bức ảnh ruộng bậc thang và gửi cho An qua thư điện tử, đặc điểm nào của thông tin số được thể hiện rõ nhất?",
+        "selectedAnswer": "D",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Bức ảnh số được tạo ra không tốn vật liệu và khi Khoa gửi cho An, Khoa không bị mất đi bức ảnh gốc. Thông tin số có đặc điểm nổi bật là dễ dàng được nhân bản, sao chép và chia sẻ qua môi trường kỹ thuật số."
+      },
+      {
+        "questionId": 2,
+        "question": "Vì sao người sử dụng Internet cần phải cẩn trọng và có trách nhiệm khi chia sẻ hay đăng tải thông tin lên môi trường mạng?",
+        "selectedAnswer": "D",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Vì sao A đúng: Thông tin số khi được chia sẻ lên mạng xã hội hay ứng dụng nhắn tin sẽ được lưu trữ, đồng bộ và tiếp tục lan truyền nhanh chóng đến nhiều người, khiến thông tin đó rất khó bị xóa bỏ hoàn toàn. Do đó, người dùng cần quản lý, khai thác an toàn và có trách nhiệm."
+      },
+      {
+        "questionId": 3,
+        "question": "Để kiểm tra tính đáng tin cậy của một bài viết trên mạng, tiêu chí đánh giá \"Tính thời sự của thông tin\" yêu cầu người đọc thực hiện điều gì?",
+        "selectedAnswer": "D",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Thời điểm công bố thông tin rất quan trọng vì nó quyết định thông tin đó còn giá trị hay đã trở nên lỗi thời. Những nội dung trên trang web đã lâu không được cập nhật thường có độ tin cậy thấp."
+      },
+      {
+        "questionId": 4,
+        "question": "Trong các phát biểu sau đây, phát biểu nào phản ánh một sự kiện/dữ kiện khách quan chứ không phải ý kiến chủ quan?",
+        "selectedAnswer": "A",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Vì sao C đúng: Phát biểu C trình bày một sự kiện lịch sử cụ thể, có mốc thời gian và bằng chứng thực tế kiểm chứng được, nên đó là sự kiện khách quan."
+      },
+      {
+        "questionId": 5,
+        "question": "Cách xử lý nào sau đây thể hiện kỹ năng đánh giá thông tin khoa học và chuẩn xác nhất?",
+        "passage": "Tình huống: Học sinh A thấy một bài quảng cáo trên mạng xã hội khẳng định: \"Uống loại trà thảo mộc này sẽ giúp thông minh hơn và đạt điểm tối đa mọi kỳ thi mà không cần học bài\".",
+        "selectedAnswer": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Người bán hàng hoặc sản xuất có thể phóng đại lợi ích của dịch vụ hay sản phẩm. Để xác định thông tin đáng tin cậy, học sinh cần phối hợp các kỹ năng: kiểm tra thẩm quyền/uy tín của nguồn cấp, kiểm tra chứng cứ của kết luận và phân biệt giữa nhận xét chủ quan với sự thật khách quan. Việc này giúp đưa ra quyết định đúng đắn và tránh lãng phí hay rủi ro."
+      }
+    ],
+    "scoreRaw": 0,
+    "scoreScale10": 0,
+    "feedback": " Em cần cố gắng nhiều hơn",
+    "submittedAt": "2026-10-07T00:48:39.766Z",
+    "submittedAtFormatted": "07:48:39 07/10/2026",
+    "deviceId": "dev_1791334003404_g98s9ks4m1tavha7a0h5"
+  },
+  {
+    "id": "sub_1791334250221_m9oub",
+    "studentName": "dfdfafdafdfafdfadfdaf",
+    "studentClass": "8a6",
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "A"
+    },
+    "results": [
+      {
+        "questionId": 1,
+        "question": "Khi Khoa chụp lại bức ảnh ruộng bậc thang và gửi cho An qua thư điện tử, đặc điểm nào của thông tin số được thể hiện rõ nhất?",
+        "selectedAnswer": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Bức ảnh số được tạo ra không tốn vật liệu và khi Khoa gửi cho An, Khoa không bị mất đi bức ảnh gốc. Thông tin số có đặc điểm nổi bật là dễ dàng được nhân bản, sao chép và chia sẻ qua môi trường kỹ thuật số."
+      },
+      {
+        "questionId": 2,
+        "question": "Vì sao người sử dụng Internet cần phải cẩn trọng và có trách nhiệm khi chia sẻ hay đăng tải thông tin lên môi trường mạng?",
+        "selectedAnswer": "A",
+        "correctAnswer": "A",
+        "isCorrect": true,
+        "explanation": "Vì sao A đúng: Thông tin số khi được chia sẻ lên mạng xã hội hay ứng dụng nhắn tin sẽ được lưu trữ, đồng bộ và tiếp tục lan truyền nhanh chóng đến nhiều người, khiến thông tin đó rất khó bị xóa bỏ hoàn toàn. Do đó, người dùng cần quản lý, khai thác an toàn và có trách nhiệm."
+      },
+      {
+        "questionId": 3,
+        "question": "Để kiểm tra tính đáng tin cậy của một bài viết trên mạng, tiêu chí đánh giá \"Tính thời sự của thông tin\" yêu cầu người đọc thực hiện điều gì?",
+        "selectedAnswer": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Thời điểm công bố thông tin rất quan trọng vì nó quyết định thông tin đó còn giá trị hay đã trở nên lỗi thời. Những nội dung trên trang web đã lâu không được cập nhật thường có độ tin cậy thấp."
+      },
+      {
+        "questionId": 4,
+        "question": "Trong các phát biểu sau đây, phát biểu nào phản ánh một sự kiện/dữ kiện khách quan chứ không phải ý kiến chủ quan?",
+        "selectedAnswer": "A",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Vì sao C đúng: Phát biểu C trình bày một sự kiện lịch sử cụ thể, có mốc thời gian và bằng chứng thực tế kiểm chứng được, nên đó là sự kiện khách quan."
+      },
+      {
+        "questionId": 5,
+        "question": "Cách xử lý nào sau đây thể hiện kỹ năng đánh giá thông tin khoa học và chuẩn xác nhất?",
+        "passage": "Tình huống: Học sinh A thấy một bài quảng cáo trên mạng xã hội khẳng định: \"Uống loại trà thảo mộc này sẽ giúp thông minh hơn và đạt điểm tối đa mọi kỳ thi mà không cần học bài\".",
+        "selectedAnswer": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Vì sao B đúng: Người bán hàng hoặc sản xuất có thể phóng đại lợi ích của dịch vụ hay sản phẩm. Để xác định thông tin đáng tin cậy, học sinh cần phối hợp các kỹ năng: kiểm tra thẩm quyền/uy tín của nguồn cấp, kiểm tra chứng cứ của kết luận và phân biệt giữa nhận xét chủ quan với sự thật khách quan. Việc này giúp đưa ra quyết định đúng đắn và tránh lãng phí hay rủi ro."
+      }
+    ],
+    "scoreRaw": 1,
+    "scoreScale10": 2,
+    "feedback": "Em cần xem lại nội dung bài học",
+    "submittedAt": "2026-10-07T00:50:50.220Z",
+    "submittedAtFormatted": "07:50:50 07/10/2026",
+    "deviceId": "dev_1791334224614_zaxyuizqydso2xjskn3ets"
+  }
+]
