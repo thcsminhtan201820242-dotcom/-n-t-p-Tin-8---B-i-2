@@ -1,0 +1,6 @@
+{
+  "name": "Bài Ôn Trắc Nghiệm Tin Học 8",
+  "description": "Hệ thống ôn tập trắc nghiệm trực tuyến môn Tin học 8 dành cho học sinh làm bài ở nhà kèm hệ thống giáo viên quản lý kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
